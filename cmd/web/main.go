@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/shunmasa/bookings/pkg/config"
-	"github.com/shunmasa/bookings/pkg/handlers"
-	"github.com/shunmasa/bookings/pkg/render"
+	"github.com/shunmasa/bookings/internal/config"
+	"github.com/shunmasa/bookings/internal/handlers"
+	"github.com/shunmasa/bookings/internal/render"
 )
 
 
